@@ -1,18 +1,18 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
-      "image": "images/social/twitter.svg"
+      "name": "threads",
+      "url": "https://www.threads.net/@itskuhl",
+      "image": "images/social/threads.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
+      "url": "https://github.com/alph486",
       "image": "images/social/github.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com/kkuhl",
       "image": "images/social/linkedin.svg"
     }
   ]
