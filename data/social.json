@@ -12,8 +12,13 @@
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/kkuhl",
+      "url": "https://www.linkedin.com/in/kkuhl/",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "email",
+      "url": "mailto:howdy@kuhl.mozmail.com",
+      "image": "images/social/email.png"
     }
   ]
 }
