@@ -8,7 +8,7 @@ tags:
     - existential
 ---
 
-From an [article](https://www.themarginalian.org/2015/04/21/love-after-love-derek-walcott/) by [Maria Popova](https://twitter.com/brainpicker) @ [The Marginalian](https://www.themarginalian.org/), which I recommend. This has something happy and mournful about it,
+From an [article](https://www.themarginalian.org/2015/04/21/love-after-love-derek-walcott/) by [Maria Popova](https://twitter.com/brainpicker) @ [The Marginalian](https://www.themarginalian.org/), which I recommend. This has something happy and mournful about it:
 
 > **LOVE AFTER LOVE**  
 _by Derek Walcott_
