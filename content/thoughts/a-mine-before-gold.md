@@ -2,7 +2,7 @@
 title: "A Mine Before Gold"
 date: 2023-11-24T14:27:42-06:00
 description: 'Building a mine too early in a startup is perilous. As is not building a mine when you need one.'
-draft: true
+draft: false
 tags:
     - work
     - business
