@@ -62,3 +62,6 @@ enableEmoji = true
     weight = 2
     url = "/thoughts/"
 
+[outputs]
+  page = ['html', 'rss']
+

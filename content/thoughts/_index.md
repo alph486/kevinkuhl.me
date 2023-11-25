@@ -14,3 +14,4 @@ My one and only guarantee: I won't email more than daily.
 If you [subscribe](https://buttondown.email/kevinkuhl), reply with your thoughts if it provokes something. I'd love to hear it!
 
 ---
+[RSS](/thoughts/index.xml)
