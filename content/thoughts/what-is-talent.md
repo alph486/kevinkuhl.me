@@ -1,6 +1,6 @@
 ---
 title: "What Is Talent"
-date: 2023-11-24T22:09:16-06:00
+date: 2023-11-25T22:09:16-06:00
 description: 'What is talent?'
 draft: false
 ---
