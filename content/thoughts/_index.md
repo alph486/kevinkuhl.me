@@ -5,11 +5,9 @@ date: 2019-02-24
 
 # A Case for Tiny Newsletters
 
-When I read something online, I don't often get to the important parts. I'm usually frantically deleting email while getting in the shower or something. In fact, I think I've benefited most from short, partly complete thoughts with a dusting of hyperlinks. Social media forms of microblogging come with too many distractions. [AT Protocol](https://atproto.com) and others aren't quite there yet. 
+When I read something online, I don't often get to the important parts. I'm usually frantically deleting email while getting in the shower or something. I think I've benefited most from [short](https://seths.blog/2023/11/the-perfect-conditions/), open-ended thoughts dusted lightly with hyperlinks. Social media microblogging come with too many distractions. [AT Protocol](https://atproto.com) and [others](https://docs.joinmastodon.org/spec/activitypub/) are cool but have growth to do. Email and RSS sound right.
 
-A short thought sent on the back of [Email](https://en.wikipedia.org/wiki/History_of_email) and [RSS](https://en.wikipedia.org/wiki/RSS#History), the bedrocks of the internet, just sounded refreshing :relieved:. 
-
-In *Thoughts* I challenge myself to write lo-fi musings about think I like in as few words as makes sense so people can digest it and think about it too.
+In *Thoughts* I challenge myself to write lo-fi musings about things that inspire me in as few words as I can. I think this is the best way to share a concept and to let it germinate into something somewhere else.
 
 My one and only guarantee: I won't email more than daily.
 
