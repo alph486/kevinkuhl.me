@@ -8,7 +8,7 @@ menu:
 ---
 
 # About
-Infrastructure, Operations, Site Reliability, and all other things DevOps are very (very) different to small companies. Yet, there is a clear lack of inexpensive and simple tooling and reference architectures for smaller organizations. As a result, the either cut corners or spend too much time and money.
+Infrastructure, Operations, Site Reliability, and all other things DevOps are very (very) different to small companies. Yet, there is a clear lack of inexpensive, simple tooling and reference architectures for smaller organizations. As a result, the either cut corners or spend too much time and money.
 
 Operational complexity is a very fluid thing and companies are in unique stages of need. **Relentless persuit of less, measurement, and agility are the ingredients MUX provides to smaller companies.**
 
