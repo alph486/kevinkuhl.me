@@ -2,7 +2,7 @@
 title: "What Is Talent"
 date: 2023-11-25T22:09:16-06:00
 description: 'What is talent?'
-draft: false
+draft: true
 ---
 
 Scholars [seem to think](https://www.merriam-webster.com/dictionary/talent) talent is innate. But that's weird, right? It doesn't matter how I am talented; I either am or I am not. Another common angle is the *Dad Speech*:
