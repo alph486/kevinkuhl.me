@@ -60,7 +60,7 @@ enableEmoji = true
     name = "Thoughts"
     identifier = "Thoughts"
     weight = 2
-    url = "/thoughts/"
+    url = "https://buttondown.email/kevinkuhl"
 
 [outputs]
   page = ['html', 'rss']
