@@ -67,7 +67,7 @@
 
 </body>
 {{ if and .Site.Params.googleFontsUrl .Site.Params.enableGoogleFonts }}
-<link rel="preload" href="https://fonts.gstatic.com">
-<link href="{{ .Site.Params.googleFontsUrl }}" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preload" href="{{ .Site.Params.googleFontsUrl }}" rel="stylesheet">
 {{ end }}
 </html>
