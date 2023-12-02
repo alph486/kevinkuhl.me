@@ -1,7 +1,7 @@
 ---
 title: "Equilibrium Engineering"
 date: 2022-04-01T21:11:50-06:00
-description: 'As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. '
+description: 'What video games about factories can tell us about ourselves.'
 image: images/equilibrium.jpg
 draft: false
 ---
