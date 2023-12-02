@@ -1,7 +1,6 @@
 ---
 title: "Mux"
 date: 2023-11-22T10:53:45-06:00
-image: images/mux_hero.jpg
 menu:
   main:
     name: "Mux"
