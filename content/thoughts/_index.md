@@ -14,7 +14,7 @@ If you [subscribe](https://buttondown.email/kevinkuhl), reply with your thoughts
 <iframe
 scrolling="no"
 style="width:100%!important;height:220px;border: none !important;"
-src="https://buttondown.email/kevinkuhl?as_embed=true"
+src="https://buttondown.email/kevinkuhl?as_embed=true&tag=thoughts"
 ></iframe><br /><br />
 
 :link: [RSS](/thoughts/index.xml)
