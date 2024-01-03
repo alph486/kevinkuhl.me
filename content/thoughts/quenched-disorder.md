@@ -9,7 +9,7 @@ tags:
     - complexity theory
 ---
 
-Millions of years ago a staggeringly complex system (post-ice-age Earth) began warming. After a very long time, pMillions of years ago a staggeringly complex system (post-ice-age Earth) began warming. After a very long time, probabilities collapsed: continents and oceans formed at random locations on our planet.
+Millions of years ago a staggeringly complex system (post-ice-age Earth) began warming. After a very long time, probabilities collapsed: continents and oceans formed at random locations on our planet.
 
 Then, time: Biology... Civilization...
 
