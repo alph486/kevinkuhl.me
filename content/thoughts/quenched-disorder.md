@@ -3,6 +3,7 @@ title: "Quenched Disorder"
 date: 2024-01-02T19:54:01-06:00
 description: 'Random constraints as the source of real life magic.'
 draft: false
+image: images/quencheddisorder.png
 tags:
     - life
     - science
